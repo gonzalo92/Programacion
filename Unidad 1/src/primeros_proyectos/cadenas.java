@@ -1,4 +1,4 @@
-package ejemplos.primeros_proyectos;
+package primeros_proyectos;
 
 import java.util.Scanner;
 
