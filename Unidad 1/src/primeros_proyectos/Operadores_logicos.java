@@ -28,7 +28,7 @@ public class Operadores_logicos {
 		double calcula = 35.3-53/10;
 		System.out.println(calcula);
 		
-		double calcula1 =((-5)^2+10)*3;
+		double calcula1 =(Math.pow(-5, 2)+10)*3;
 		System.out.println(calcula1);
 		
 		double calcula2 =1+5%1.5*8/2;
@@ -67,7 +67,7 @@ public class Operadores_logicos {
 		double calcula13=(13*3)%10;
 		System.out.println(calcula13);
 		
-		double calcula14=Math.pow(2, Math.pow(3, 3));
+		double calcula14=Math.pow(Math.pow(2, 3), 3);
 		System.out.println(calcula14);
 		
 		
